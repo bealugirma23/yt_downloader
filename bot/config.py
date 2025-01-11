@@ -1,5 +1,4 @@
-TOKEN =  "7421730405:AAFVBGYzE9ijitnMnlk843wIQ44x-K-zhRg"
-BOT_USERNAME = "@Ytdownr_bot"
+TOKEN = 
 
 
 
